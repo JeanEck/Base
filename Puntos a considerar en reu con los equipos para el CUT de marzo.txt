@@ -1,0 +1,12 @@
+Validaciones CUT agencia Abril-21:
+-Existe gasto por uniformes para el mes de Abril? y así para febrero, marzo
+-Papelería (formatería) no se actualizó, se uso el del mes de Enero 21. Pendiente para Feb y Mar y Abril.
+-Útiles no se actualizó, se uso el del mes de Enero 21.(corregir cálculo para Mayo)
+-Tener el nro de personal (esta se debe incluir en la data de contabilidad)
+-Depreciación para los mese de feb, marz y abril...se uso la de enero
+
+----
+-En Mtto de equipos de computo podríasmos pulir un poco la data, sin negativos (simepre en promedio por año)
+-En Mtto de Sistemas de Alarma, sin negativos (Sensores y sistemas de seguridad)
+
+
